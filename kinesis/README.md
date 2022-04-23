@@ -1,5 +1,5 @@
 # Universidad EAFIT
-# Curso St1612 Sistemas Intensivos en Datos, 2021 - 2
+# Curso St1612 Sistemas Intensivos en Datos, 2022-1
 # Profesor: Edwin Montoya M. – emontoya@eafit.edu.co
 
 # Amazon Kinesis Lab 5
